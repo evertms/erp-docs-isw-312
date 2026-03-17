@@ -1,7 +1,7 @@
 # ADR-004: Estrategia de Almacenamiento de Imágenes
 
 ## Estado
-Propuesta
+Aceptada
 
 ## Contexto
 El sistema de inventario manejará un catálogo de **30,000 productos**. Se estima un promedio de **3 imágenes por producto**, totalizando **~90,000 imágenes**.

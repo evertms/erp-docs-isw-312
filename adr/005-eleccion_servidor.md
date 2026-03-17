@@ -1,7 +1,7 @@
 # ADR-005: Elección de Proveedor de Infraestructura (VPS vs Cloud)
 
 ## Estado
-Propuesta
+Aceptada
 
 ## Contexto
 Para desplegar el sistema de inventario (Monolito Modular en .NET 10 + PostgreSQL + React), requerimos una infraestructura que soporte:

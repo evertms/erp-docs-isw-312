@@ -1,7 +1,7 @@
 # ADR-009: Arquitectura de Frontend para Múltiples Módulos Backend
 
 ## Estado
-Propuesta
+Aceptada
 
 ## Contexto
 El backend del sistema ERP SaaS ha sido diseño para operar de manera desacoplada: cada módulo operativo (como Inventario, Ventas, etc.) reside en su propio repositorio y se despliega como una API independiente (ADR-006 y ADR-008). 

@@ -1,7 +1,7 @@
 # ADR-003: Elección del Motor de Base de Datos
 
 ## Estado
-Propuesta
+Aceptada
 
 ## Contexto
 El sistema de inventario debe gestionar un catálogo proyectado de **30,000 productos** y soportar la operación de **50 usuarios concurrentes**.

@@ -1,7 +1,7 @@
 # ADR-002: Backend (.NET 10) & Frontend (React/TypeScript)
 
 ## Estado
-Propuesta
+Aceptada
 
 ## Contexto
 El sistema de inventario debe ser robusto, rápido de desarrollar y fácil de mantener.

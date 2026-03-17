@@ -1,7 +1,7 @@
 # ADR-008: Arquitectura de Código Backend para Módulos y Submódulos (Ventas y POS)
 
 ## Estado
-Aceptada
+Reemplazada (por ADR-010)
 
 ## Contexto
 El sistema ERP se está construyendo bajo un enfoque donde **cada módulo operativo es un repositorio separado**. Para priorizar la velocidad de desarrollo y tener un MVP rápido, el backend de cada módulo consta de un **único proyecto de .NET (Web API)**. En lugar de dividir las capas en múltiples ensamblados (DLLs), se utiliza una separación física por directorios: `Domain`, `Application` e `Infrastructure`.

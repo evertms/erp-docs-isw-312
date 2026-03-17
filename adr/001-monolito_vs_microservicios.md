@@ -1,7 +1,7 @@
 # ADR-001: Arquitectura Base (Monolito Modular vs Microservicios)
 
 ## Estado
-Propuesta
+Aceptada
 
 ## Contexto
 El proyecto consiste en el desarrollo de un **Sistema de Control de Inventario** con los siguientes objetivos y restricciones críticas:
